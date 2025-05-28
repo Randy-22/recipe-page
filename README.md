@@ -37,11 +37,11 @@ Key Focus Areas:
 
 #### Mobile design
 
-![Mobile Design](design/mobile-design.png)
+![Mobile Design](design/mobile_design.png)
 
 #### Desktop design
 
-  ![Desktop Design](design/desktop-design.png)
+  ![Desktop Design](design/desktop_design.png)
 
 ### Links
 
